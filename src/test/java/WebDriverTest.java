@@ -107,7 +107,12 @@ public class WebDriverTest {
         WebDriver driver = new FirefoxDriver();
 
         for(int i = 0; i < 5; i++) {
-            driver.get("http://www.randomwebsite.com/cgi-bin/random.pl");
+
+            try {
+                driver.get("http://www.randomwebsite.com/cgi-bin/random.pl");
+            }catch(Exception ex ){
+
+            }
             // http://randomyoutube.net/watch#
             // REST,
             Random random = new Random();
