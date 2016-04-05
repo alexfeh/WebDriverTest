@@ -20,16 +20,21 @@ public class WebDriverInterests {
         //String account = "neinpanik@gmail.com";
 
 
-        //String pw = "WTF!ilol123";
+        String pw = "WTF!ilol123";
+        String account = "klarata.hamada@gmail.com";
 
-        //String account = "klarata.hamada@gmail.com";
-        //String account = "lemana.jendiua@gmail.com";
-
-        //String pw = "jacobSucksCocks";
-        //String account = "i.love.my.edward4ever@gmail.com";
-
+        /*
+        String pw = "WTF!ilol123";
+        String account = "lemana.jendiua@gmail.com";
+        */
+        /*
+        String pw = "jacobSucksCocks";
+        String account = "i.love.my.edward4ever@gmail.com";
+        */
+        /*
         String pw = "hanswurst";
         String account = "franzi.schnorcher@gmail.com";
+        */
 
 
         List<String> randomLinks = new ArrayList<String>();
