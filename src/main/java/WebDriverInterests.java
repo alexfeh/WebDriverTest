@@ -17,11 +17,19 @@ public class WebDriverInterests {
     public static void main(String[] args){
 
         //String pw = "e6a5f0cbea8b11cee0716ef6a781f291";
-        String pw = "WTF!ilol123";
         //String account = "neinpanik@gmail.com";
-        String account = "klarata.hamada@gmail.com";
+
+
+        //String pw = "WTF!ilol123";
+
+        //String account = "klarata.hamada@gmail.com";
         //String account = "lemana.jendiua@gmail.com";
-        //String account = "lemana.jendiua@gmail.com";
+
+        //String pw = "jacobSucksCocks";
+        //String account = "i.love.my.edward4ever@gmail.com";
+
+        String pw = "hanswurst";
+        String account = "franzi.schnorcher@gmail.com";
 
 
         List<String> randomLinks = new ArrayList<String>();
@@ -90,7 +98,7 @@ public class WebDriverInterests {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-        }
+        }*/
 
         for(int i = 0; i < 500; i++) {
 
@@ -128,10 +136,10 @@ public class WebDriverInterests {
 
         } catch (IOException e) {
             e.printStackTrace();
-        }*/
+        }
 
         // Visit pages from random youtube site
-
+/*
         for(int i = 0; i < 500; i++){
             driver.get("http://randomyoutube.net/watch#");
             driver.navigate().refresh();
@@ -144,7 +152,7 @@ public class WebDriverInterests {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-        }
+        }*/
 
         // Get interests from google
 
